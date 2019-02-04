@@ -1,0 +1,9 @@
+checking rebasing 
+master is open
+git rebase 1st
+and checking the results
+
+earlier we did rebasing but uin reverse ways like
+1st was open
+git rebase master
+current branch 1st is up to date was the output
